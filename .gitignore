@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for git)
+data/train.csv
+data/test.csv
+
+# Model artifacts
+model/*.pkl
+
+# Exports (regenerated from notebook)
+exports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Submissions
+submission/
