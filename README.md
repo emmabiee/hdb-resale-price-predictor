@@ -55,16 +55,12 @@ hdb-resale-prediction/
 ## Online Calculator
 An interactive Streamlit app lets users estimate HDB resale prices by inputting property characteristics.
 
-**Try locally:**
+**Try it live:** [HDB Resale Price Calculator](https://blank-app-in22ljofwh.streamlit.app/)
+
+**Or run locally:**
 ```bash
 streamlit run streamlit_app.py
 ```
-
-**Deploy online (Streamlit Community Cloud):**
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo and select `streamlit_app.py`
-4. Your calculator will be live at a public URL
 
 ## Tech Stack
 Python 3.10+ | pandas | NumPy | scikit-learn | LightGBM | XGBoost | SHAP | Matplotlib | Seaborn | Streamlit
