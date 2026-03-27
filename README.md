@@ -55,7 +55,7 @@ hdb-resale-prediction/
 ## Online Calculator
 An interactive Streamlit app lets users estimate HDB resale prices by inputting property characteristics.
 
-**Try it live:** [HDB Resale Price Calculator](https://blank-app-in22ljofwh.streamlit.app/)
+**Try it live:** [HDB Resale Price Calculator](https://hdb-resale-price-predictor-emmabiee.streamlit.app/)
 
 **Or run locally:**
 ```bash
