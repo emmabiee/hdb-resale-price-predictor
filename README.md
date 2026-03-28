@@ -75,4 +75,4 @@ jupyter notebook HDB_Resale_Price_Prediction.ipynb
 **Emma Poh & 3 others** — GA Data Analytics Immersive
 - Email: emmalynpoh@gmail.com
 - LinkedIn: [linkedin.com/in/emmalynpoh](https://www.linkedin.com/in/emmalynpoh)
-- GitHub: [github.com/emmabiee](https://github.com/emmabiee)
+- Portfolio: [emmabiee.github.io](https://emmabiee.github.io)
